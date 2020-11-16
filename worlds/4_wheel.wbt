@@ -1,0 +1,31 @@
+#VRML_SIM R2020b utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.2742168967322303 0.9315906056236727 0.23862949746471804 1.4768212967342786
+  position 3.309138709697292 2.0532804725064193 1.2306111937195598
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+  luminosity 0.01
+}
+FourWheelsRobot {
+  hidden position_0_0 3.455999819184984
+  hidden position_0_1 3.4559998188580585
+  hidden position_0_2 3.4560001683164483
+  hidden position_0_3 3.456000167989521
+  hidden rotation_1 1 0 0 3.455999819184984
+  hidden rotation_2 1 0 0 3.4559998188580585
+  hidden rotation_3 1 0 0 3.4560001683164483
+  hidden rotation_4 1 0 0 3.456000167989521
+  translation -4.338766413027047e-09 0.039720979183725795 0.12954049596055603
+  rotation 0.000472598387097144 0.66453103275003 -0.7472605189376348 -1.1513072603964481e-07
+}
+Floor {
+}
+ConstructionLamp {
+  translation 0 0.07 1.25
+  rotation 0 1 0 3.14159
+}
